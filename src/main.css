@@ -1,0 +1,17 @@
+.bg-navBar{
+background-color: red;
+color: white;
+}
+.nav-link
+{color: white;}
+
+span{
+font-weight: 300;}
+
+.nav-link span{
+font-weight: 400;
+padding-left: 3px;}
+
+.cuadro-texto{
+height: 100px !important;
+}
