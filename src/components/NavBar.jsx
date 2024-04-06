@@ -12,10 +12,10 @@ const NavBar = () => {
           <div className='collapse navbar-collapse' id='navbarSupportedContent'>
             <ul className='navbar-nav me-auto mb-2 mb-lg-0'>
               <li className='nav-item'>
-                <Link className='nav-link' to='/'><img className='svg-icon' src='public\home-icon.svg' /><span>Inicio</span></Link>
+                <Link className='nav-link' to='/'><img className='svg-icon' src='\home-icon.svg' /><span>Inicio</span></Link>
               </li>
               <li className='nav-item'>
-                <Link className='nav-link' to='/contacto'><img className='svg-icon' src='public\contact-icon.svg' /><span>Contacto</span></Link>
+                <Link className='nav-link' to='/contacto'><img className='svg-icon' src='\contact-icon.svg' /><span>Contacto</span></Link>
               </li>
             </ul>
             <Link className='nav-link' to='/'><span className='pe-2'>Happy Cake</span><img className='svg-icon' src='/cake-icon.png' /></Link>
